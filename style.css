@@ -1,0 +1,49 @@
+
+#main{
+    font-family: sans-serif;
+    background-color: #eee;
+    border-radius: 20px;
+    display: grid;
+}
+h1{
+    font-size: 72px;
+    text-align: center;
+    position: relative;
+    top: 20px;
+    
+}
+#Subline{
+    
+    font-size: 30px;
+    text-align: center;
+    position: relative;
+    bottom: 25px;
+}
+#img-div{
+    background-color: #fff;
+    margin:  20px;
+    padding: 10px;
+    bottom: 
+}
+#image{
+    display: block;
+    padding: 10px;
+    margin: 0 auto;
+    width: 90%;   
+}
+#img-caption{
+    font-size: 1.4em;
+    margin: 15px 0 5px 0;
+    text-align: center;
+}
+#content_title{
+    text-align: center;
+    font-size: 20px;
+}
+#life_list{
+    margin: 0 100px 0 100px;
+    font-size: 18px;
+}
+h3{
+    text-align: center;
+}
